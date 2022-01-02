@@ -7,6 +7,7 @@ body {
   font-family: 'Garet', sans-serif;
   font-weight: normal;
 
+
 }
 hr {
     width: 4%;
@@ -35,7 +36,7 @@ hr {
   width: 50%;
   text-decoration: none;
   font-size: 200%;
-  font-family: 'Garet', sans-serif;
+
   font-weight: normal;
   text-decoration: none;
 
@@ -47,7 +48,6 @@ hr {
 }
 .mainWords {
   font-size: 300%;
-  font-family: 'Garet', sans-serif;
   font-weight: normal;
   text-align: left;
   margin: 5% 60% auto 25%;

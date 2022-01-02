@@ -1,0 +1,119 @@
+
+
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #fff0db;
+  font-family: 'Garet', sans-serif;
+  font-weight: normal;
+
+}
+hr {
+    width: 4%;
+    border: dotted #d9b99b 6px;
+    border-bottom: none;
+    margin: 100px auto;
+
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+.topWhiteHeader {
+  background-color: white;
+  padding: 3%;
+  display: block;
+}
+
+.headerWords {
+  font-weight: bold;
+  color: black;
+  margin: auto;
+  padding-right: 40px;
+  padding-left: 40px;
+  width: 50%;
+  text-decoration: none;
+  font-size: 200%;
+  font-family: 'Garet', sans-serif;
+  font-weight: normal;
+  text-decoration: none;
+
+}
+
+.middleContainer {
+  margin-bottom: 25%
+
+}
+.mainWords {
+  font-size: 300%;
+  font-family: 'Garet', sans-serif;
+  font-weight: normal;
+  text-align: left;
+  margin: 5% 60% auto 25%;
+
+}
+
+.bellaphoto{
+  width: 18%;
+  height: auto;
+  border-radius: 50%;
+  float: right;
+  margin: auto 25% auto auto;
+}
+
+.projects {
+  margin-bottom: 25%
+}
+
+.projects-rectangle {
+  height:200px;
+  width:25%;
+  border-radius: 10%;
+
+
+}
+
+.project-words {
+  text-decoration: none;
+  color: black;
+
+
+
+}
+
+#projects-rectangle-1 {
+  margin: auto 20% 15px 15px;
+  float: right;
+  font-size: 150%
+
+
+}
+.hairdentity {
+
+}
+
+
+.bottomWhiteHeader {
+  background-color: white;
+  padding: 3%;
+  display: block;
+}
+
+.keepInTouch {
+  font-weight: normal;
+  margin: auto auto 5% auto;
+}
+.footer-link {
+  color: black;
+  margin: auto;
+  padding-right: 40px;
+  padding-left: 40px;
+  width: 50%;
+  text-decoration: none;
+
+}
+
+.copyright {
+  margin-top: 2%
+}

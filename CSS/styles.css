@@ -1,4 +1,15 @@
-
+@font-face {
+    font-family: 'Garet';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Garet'), url('https://fonts.cdnfonts.com/s/57477/Garet-Book.woff') format('woff');
+}
+@font-face {
+    font-family: 'Garet';
+    font-style: normal;
+    font-weight: 850;
+    src: local('Garet'), url('https://fonts.cdnfonts.com/s/57477/Garet-Heavy.woff') format('woff');
+}
 
 body {
   margin: 0;
